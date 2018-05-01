@@ -19,7 +19,8 @@ Another example is a convolutional network,it is a very very famous network call
 
 
 ###other question
-because it is a very simple dnn framework and no use GPU to accelerate calculations,it will cost a long time to run LeNetdemo.py ,it may be several hours to run it.  
+The project is wrriten under python3.  
+Because it is a very simple dnn framework and no use GPU to accelerate calculations,it will cost a long time to run LeNetdemo.py ,it may be several hours to run it.  
 the FCdemo.py will cost few time to run. it just need about twenty minutes to complete training on my computer.
 
 ##wecome discussion
