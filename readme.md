@@ -1,5 +1,5 @@
 # Micro DNN
-###Introduction
+### Introduction
 The repository is a micro DNN framework written by Michael Chen.The purpose of the project is to comprehensively understand the mathematic principle of deep neuralwork.  
 The project has implement fully connected layer,convolutional layer,pooling layer which are mainly used in DNN.  
 We also give two demo examples which illustrate how to use it.Both of them are used for mnist dataset.They illustrate a classifier network respectively.  
@@ -18,10 +18,10 @@ Another example is a convolutional network,it is a very very famous network call
 * struct----it is used in loading mnist dataset
 
 
-### other questions
+### Other questions
 The project is wrriten under python3.  
 Because it is a very simple dnn framework and no use GPU to accelerate calculations,it will cost a long time to run LeNetdemo.py ,it may be several hours to run it.  
 the FCdemo.py will cost few time to run. it just need about twenty minutes to complete training on my computer.
 
-### wecome discussion
+### Wecome discussion
 my email is chenzh8312@sina.com.cn
